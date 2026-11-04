@@ -1,0 +1,9 @@
+sudo apt install -y \
+podman \
+python3-pyside6.qtcore \
+python3-pyside6.qtgui \
+python3-pyside6.qtwidgets \
+python3-platformdirs \
+python3-xdg \
+python3-socks \
+tesseract-ocr-all
